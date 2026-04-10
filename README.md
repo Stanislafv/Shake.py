@@ -9,3 +9,5 @@
 Отрисовка через Canvas с полной перерисовкой кадра.
 
 Защита от разворота в себя и столкновения с телом.
+
+<img width="509" height="540" alt="2026-04-10_22-49-30" src="https://github.com/user-attachments/assets/0fce813e-59d9-4ada-a4c2-9c36f3a78b90" />
